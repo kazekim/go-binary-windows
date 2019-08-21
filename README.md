@@ -2,7 +2,6 @@
 
 You can select GOOS/GOARCH from this table
 
- – 
 | `GOOS` - TARGET OPERATING SYSTEM | `GOARCH` – TARGET PLATFORM |
 |--|--|
 | `android` | `arm` |
